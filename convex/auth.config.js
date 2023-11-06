@@ -1,8 +1,8 @@
 export default {
   providers: [
     {
-      domain: "https://small-caiman-963.convex.cloud",
+      domain: "https://smashing-monitor-64.clerk.accounts.dev",
       applicationID: "convex",
-    }
+    },
   ]
-}
+};
