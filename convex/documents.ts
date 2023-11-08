@@ -41,4 +41,4 @@ export const create = mutation({
 
     return document;
   }
-})
+});
