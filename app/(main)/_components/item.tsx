@@ -1,8 +1,8 @@
 "use client";
 
 import { 
-  ChevronDown,
-  ChevronRight,
+  ChevronDown, 
+  ChevronRight, 
   LucideIcon,
   MoreHorizontal,
   Plus,
@@ -34,7 +34,7 @@ interface ItemProps {
   level?: number;
   onExpand?: () => void;
   label: string;
-  onClick: () => void;
+  onClick?: () => void;
   icon: LucideIcon;
 };
 
